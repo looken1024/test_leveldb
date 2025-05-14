@@ -1,0 +1,3 @@
+[submodule "leveldb"]
+	path = third_party/leveldb
+	url = https://github.com/looken1024/leveldb.git
